@@ -1,0 +1,66 @@
+transaction_id,product_id,transaction_type,quantity,transaction_date,remarks
+1,1,IN,20,2026-09-01,New stock received
+2,2,OUT,5,2026-09-02,Customer sales
+3,3,IN,15,2026-09-03,Supplier delivery
+4,6,OUT,3,2026-09-04,Customer sales
+5,10,OUT,4,2026-09-05,Customer sales
+6,1,IN,20,2026-08-01,New stock received
+7,1,OUT,5,2026-08-03,Customer sale
+8,2,IN,15,2026-08-02,Supplier delivery
+9,2,OUT,4,2026-08-05,Customer sale
+10,3,IN,25,2026-08-03,New stock received
+11,3,OUT,7,2026-08-06,Customer sale
+12,4,IN,10,2026-08-04,Supplier delivery
+13,4,OUT,3,2026-08-07,Customer sale
+14,5,IN,30,2026-08-05,New stock received
+15,5,OUT,8,2026-08-08,Customer sale
+16,6,IN,15,2026-08-06,New stock received
+17,6,OUT,5,2026-08-09,Customer sale
+18,7,IN,12,2026-08-07,Supplier delivery
+19,7,OUT,3,2026-08-10,Customer sale
+20,8,IN,20,2026-08-08,New stock received
+21,8,OUT,6,2026-08-11,Customer sale
+22,9,IN,15,2026-08-09,Supplier delivery
+23,9,OUT,8,2026-08-12,Customer sale
+24,10,IN,18,2026-08-10,New stock received
+25,10,OUT,4,2026-08-13,Customer sale
+26,11,IN,20,2026-08-11,New stock received
+27,11,OUT,5,2026-08-14,Customer sale
+28,12,IN,15,2026-08-12,Supplier delivery
+29,12,OUT,4,2026-08-15,Customer sale
+30,13,IN,40,2026-08-13,New stock received
+31,13,OUT,10,2026-08-16,Customer sale
+32,14,IN,12,2026-08-14,Supplier delivery
+33,14,OUT,5,2026-08-17,Customer sale
+34,15,IN,10,2026-08-15,New stock received
+35,15,OUT,6,2026-08-18,Customer sale
+36,16,IN,25,2026-08-16,New stock received
+37,16,OUT,7,2026-08-19,Customer sale
+38,17,IN,20,2026-08-17,Supplier delivery
+39,17,OUT,5,2026-08-20,Customer sale
+40,18,IN,10,2026-08-18,New stock received
+41,18,OUT,3,2026-08-21,Customer sale
+42,19,IN,8,2026-08-19,Supplier delivery
+43,19,OUT,4,2026-08-22,Customer sale
+44,20,IN,15,2026-08-20,New stock received
+45,20,OUT,6,2026-08-23,Customer sale
+46,21,IN,18,2026-08-21,New stock received
+47,21,OUT,5,2026-08-24,Customer sale
+48,22,IN,22,2026-08-22,Supplier delivery
+49,22,OUT,6,2026-08-25,Customer sale
+50,23,IN,15,2026-08-23,New stock received
+51,23,OUT,7,2026-08-26,Customer sale
+52,24,IN,35,2026-08-24,Supplier delivery
+53,24,OUT,10,2026-08-27,Customer sale
+54,25,IN,12,2026-08-25,New stock received
+55,25,OUT,8,2026-08-28,Customer sale
+56,26,IN,20,2026-08-26,New stock received
+57,26,OUT,5,2026-08-29,Customer sale
+58,27,IN,15,2026-08-27,Supplier delivery
+59,27,OUT,4,2026-08-30,Customer sale
+60,28,IN,25,2026-08-28,New stock received
+61,28,OUT,8,2026-08-31,Customer sale
+62,29,IN,15,2026-08-29,Supplier delivery
+63,29,OUT,7,2026-08-31,Customer sale
+64,30,IN,20,2026-08-30,New stock received
+65,30,OUT,5,2026-08-31,Customer sale

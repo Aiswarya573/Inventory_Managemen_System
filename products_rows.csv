@@ -1,0 +1,41 @@
+product_id,product_name,category_id,supplier_id,unit_price,stock_quantity,reorder_level,created_date
+1,Wireless Mouse,1,1,650.00,45,10,2026-09-06
+2,Mechanical Keyboard,1,1,1800.00,25,8,2026-09-06
+3,USB Keyboard,1,2,750.00,30,10,2026-09-06
+4,Laptop Stand,3,4,1200.00,15,5,2026-09-06
+5,USB-C Cable,1,2,350.00,50,15,2026-09-06
+6,HDMI Cable,1,3,450.00,8,10,2026-09-06
+7,32GB Pen Drive,4,3,550.00,40,10,2026-09-06
+8,64GB Pen Drive,4,3,750.00,20,8,2026-09-06
+9,WiFi Router,5,5,2200.00,12,5,2026-09-06
+10,Bluetooth Headphones,2,5,1500.00,6,8,2026-09-06
+11,Gaming Mouse,1,6,1250.00,28,8,2026-09-06
+12,Wireless Keyboard,1,7,1450.00,22,8,2026-09-06
+13,Webcam HD,1,8,1850.00,18,6,2026-09-06
+14,Laptop Cooling Pad,1,9,950.00,25,7,2026-09-06
+15,Mouse Pad Large,1,10,450.00,35,10,2026-09-06
+16,LED Monitor 24 inch,2,6,8500.00,14,5,2026-09-06
+17,LED Monitor 27 inch,2,7,12500.00,9,4,2026-09-06
+18,Bluetooth Speaker,2,8,2200.00,16,5,2026-09-06
+19,Wireless Earbuds,2,9,1800.00,7,8,2026-09-06
+20,Smart Watch,2,10,3200.00,12,5,2026-09-06
+21,Desk Organizer,3,6,350.00,32,10,2026-09-06
+22,Office Chair Cushion,3,7,850.00,20,6,2026-09-06
+23,Notebook A4,3,8,180.00,50,15,2026-09-06
+24,Laptop Backpack,3,9,1600.00,13,5,2026-09-06
+25,Desk Lamp LED,3,10,750.00,6,8,2026-09-06
+26,128GB Pen Drive,4,6,950.00,25,8,2026-09-06
+27,256GB Pen Drive,4,7,1450.00,18,6,2026-09-06
+28,External HDD 1TB,4,8,5200.00,10,4,2026-09-06
+29,External HDD 2TB,4,9,6800.00,5,6,2026-09-06
+30,SSD 500GB,4,10,4200.00,15,5,2026-09-06
+31,WiFi Range Extender,5,6,1800.00,11,5,2026-09-06
+32,Network Switch 8 Port,5,7,1450.00,17,6,2026-09-06
+33,Network Switch 16 Port,5,8,2600.00,8,5,2026-09-06
+34,Ethernet Cable 10m,5,9,500.00,30,10,2026-09-06
+35,Ethernet Cable 20m,5,10,850.00,4,8,2026-09-06
+36,USB Hub 4 Port,1,6,650.00,24,8,2026-09-06
+37,USB Hub 7 Port,1,7,950.00,14,6,2026-09-06
+38,Power Bank 10000mAh,2,8,1400.00,19,6,2026-09-06
+39,Power Bank 20000mAh,2,9,2200.00,8,7,2026-09-06
+40,Tablet Stand,3,10,700.00,21,6,2026-09-06

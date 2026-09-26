@@ -310,6 +310,10 @@ Project Type
 ******* ****
 Data Analytics / Inventory Management Project
 
+## Dashboard Demo
+
+![Inventory Dashboard Demo](./dashboard-demo.gif)
+
 This project demonstrates practical skills in:
 
 SQL | PostgreSQL | Supabase | Power BI | DAX | Data Modeling | Data Cleaning | Data Visualization | Business Analytics
